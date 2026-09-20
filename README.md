@@ -12,3 +12,6 @@ Hier sind die Dokumentationen zu den einzelnen Begriffen:
 * [Public Cloud](public-cloud.md)
 * [Private Cloud](private-cloud.md)
 * [Hybrid Cloud](hybrid-cloud.md)
+
+---
+*Zuletzt bearbeitet über VS Code.*
